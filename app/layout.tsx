@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   description:
     "Technical Artist & Game Designer building shaders, lighting, tools, and gameplay systems. Portfolio of Unreal Engine and Unity projects.",
-  metadataBase: new URL("http://localhost:3000"), // replace with your real domain later
+  metadataBase: new URL("https://jadb-portfolio.vercel.app/"), 
   openGraph: {
     title: "Jad Boukentar | Technical Artist & Game Designer",
     description:
